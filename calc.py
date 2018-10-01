@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-#Para que lo entienda 
+#Para que lo entienda
 
 import sys
 
